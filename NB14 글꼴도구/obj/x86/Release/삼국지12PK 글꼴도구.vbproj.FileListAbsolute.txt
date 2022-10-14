@@ -1,0 +1,9 @@
+C:\비베\삼국지12PK 글꼴도구\삼국지12PK 글꼴도구\bin\Release\삼국지12PK 글꼴도구.exe
+C:\비베\삼국지12PK 글꼴도구\삼국지12PK 글꼴도구\bin\Release\삼국지12PK 글꼴도구.pdb
+C:\비베\삼국지12PK 글꼴도구\삼국지12PK 글꼴도구\bin\Release\삼국지12PK 글꼴도구.xml
+C:\비베\삼국지12PK 글꼴도구\삼국지12PK 글꼴도구\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\비베\삼국지12PK 글꼴도구\삼국지12PK 글꼴도구\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\비베\삼국지12PK 글꼴도구\삼국지12PK 글꼴도구\obj\x86\Release\삼국지12PK 글꼴도구.vbproj.GenerateResource.Cache
+C:\비베\삼국지12PK 글꼴도구\삼국지12PK 글꼴도구\obj\x86\Release\삼국지12PK 글꼴도구.exe
+C:\비베\삼국지12PK 글꼴도구\삼국지12PK 글꼴도구\obj\x86\Release\삼국지12PK 글꼴도구.xml
+C:\비베\삼국지12PK 글꼴도구\삼국지12PK 글꼴도구\obj\x86\Release\삼국지12PK 글꼴도구.pdb

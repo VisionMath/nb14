@@ -1,0 +1,9 @@
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor\obj\x86\Debug\MSG Editor for NB14.vbproj.GenerateResource.Cache
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor\bin\Debug\MSG Editor for NB14.exe
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor\bin\Debug\MSG Editor for NB14.pdb
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor\bin\Debug\MSG Editor for NB14.xml
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor\obj\x86\Debug\MSGEditor.Form1.resources
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor\obj\x86\Debug\MSGEditor.Resources.resources
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor\obj\x86\Debug\MSG Editor for NB14.exe
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor\obj\x86\Debug\MSG Editor for NB14.xml
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor\obj\x86\Debug\MSG Editor for NB14.pdb

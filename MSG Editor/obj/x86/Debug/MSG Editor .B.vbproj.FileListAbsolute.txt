@@ -1,0 +1,22 @@
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\MSG Editor .B.exe
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\MSG Editor .B.xml
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\MSG Editor .B.pdb
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\bin\Debug\MSG Editor .B.exe
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\bin\Debug\MSG Editor .B.pdb
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\bin\Debug\MSG Editor .B.xml
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\MSGEditor.B.Form1.resources
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\MSGEditor.B.Resources.resources
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\VisionMath\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\MSG Editor .B.exe
+C:\Users\VisionMath\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\MSG Editor .B.xml
+C:\Users\VisionMath\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\MSG Editor .B.pdb
+C:\Users\VisionMath\Desktop\MSG Editor .B\MSG Editor\bin\Debug\MSG Editor .B.exe
+C:\Users\VisionMath\Desktop\MSG Editor .B\MSG Editor\bin\Debug\MSG Editor .B.pdb
+C:\Users\VisionMath\Desktop\MSG Editor .B\MSG Editor\bin\Debug\MSG Editor .B.xml
+C:\Users\VisionMath\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\VisionMath\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\MSGEditor.B.Form1.resources
+C:\Users\VisionMath\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\MSGEditor.B.Resources.resources
+C:\Users\VisionMath\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\VisionMath\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\GenerateResource.write.1.tlog

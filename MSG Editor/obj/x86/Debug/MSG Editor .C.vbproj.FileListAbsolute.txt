@@ -1,0 +1,44 @@
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\bin\Debug\MSG Editor .C.exe
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\bin\Debug\MSG Editor .C.pdb
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\bin\Debug\MSG Editor .C.xml
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\MSGEditor.C.Form1.resources
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\MSGEditor.C.Resources.resources
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\MSG Editor .C.exe
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\MSG Editor .C.xml
+C:\Users\Panorama\Desktop\MSG Editor .B\MSG Editor\obj\x86\Debug\MSG Editor .C.pdb
+C:\Users\VisionMath\Desktop\MSG Editor .C\MSG Editor\obj\x86\Debug\MSG Editor .C.exe
+C:\Users\VisionMath\Desktop\MSG Editor .C\MSG Editor\obj\x86\Debug\MSG Editor .C.xml
+C:\Users\VisionMath\Desktop\MSG Editor .C\MSG Editor\obj\x86\Debug\MSG Editor .C.pdb
+C:\Utility\비베\MSG Editor .C\MSG Editor\obj\x86\Debug\MSG Editor .C.exe
+C:\Utility\비베\MSG Editor .C\MSG Editor\obj\x86\Debug\MSG Editor .C.xml
+C:\Utility\비베\MSG Editor .C\MSG Editor\obj\x86\Debug\MSG Editor .C.pdb
+C:\Utility\비베\MSG Editor .C\MSG Editor\bin\Debug\MSG Editor .C.exe
+C:\Utility\비베\MSG Editor .C\MSG Editor\bin\Debug\MSG Editor .C.pdb
+C:\Utility\비베\MSG Editor .C\MSG Editor\bin\Debug\MSG Editor .C.xml
+C:\Utility\비베\MSG Editor .C\MSG Editor\obj\x86\Debug\MSGEditor.C.Form1.resources
+C:\Utility\비베\MSG Editor .C\MSG Editor\obj\x86\Debug\MSGEditor.C.Resources.resources
+C:\Utility\비베\MSG Editor .C\MSG Editor\obj\x86\Debug\MSG Editor .C.vbproj.GenerateResource.Cache
+C:\비베\MSG Editor .C\MSG Editor\bin\Debug\MSG Editor .C.exe
+C:\비베\MSG Editor .C\MSG Editor\bin\Debug\MSG Editor .C.pdb
+C:\비베\MSG Editor .C\MSG Editor\bin\Debug\MSG Editor .C.xml
+C:\비베\MSG Editor .C\MSG Editor\obj\x86\Debug\MSGEditor.C.Form1.resources
+C:\비베\MSG Editor .C\MSG Editor\obj\x86\Debug\MSGEditor.C.Resources.resources
+C:\비베\MSG Editor .C\MSG Editor\obj\x86\Debug\MSG Editor .C.vbproj.GenerateResource.Cache
+C:\비베\MSG Editor .C\MSG Editor\obj\x86\Debug\MSG Editor .C.exe
+C:\비베\MSG Editor .C\MSG Editor\obj\x86\Debug\MSG Editor .C.xml
+C:\비베\MSG Editor .C\MSG Editor\obj\x86\Debug\MSG Editor .C.pdb
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor .C\MSG Editor\obj\x86\Debug\MSG Editor .C.exe
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor .C\MSG Editor\obj\x86\Debug\MSG Editor .C.xml
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor .C\MSG Editor\obj\x86\Debug\MSG Editor .C.pdb
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor .C\MSG Editor\bin\Debug\MSG Editor .C.exe
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor .C\MSG Editor\bin\Debug\MSG Editor .C.pdb
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor .C\MSG Editor\bin\Debug\MSG Editor .C.xml
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor .C\MSG Editor\obj\x86\Debug\MSGEditor.C.Form1.resources
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor .C\MSG Editor\obj\x86\Debug\MSGEditor.C.Resources.resources
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor .C\MSG Editor\obj\x86\Debug\MSG Editor .C.vbproj.GenerateResource.Cache
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor\obj\x86\Debug\MSG Editor .C.exe
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor\obj\x86\Debug\MSG Editor .C.xml
+C:\Users\blood_000\Desktop\NB14 작업\MSG Editor\obj\x86\Debug\MSG Editor .C.pdb

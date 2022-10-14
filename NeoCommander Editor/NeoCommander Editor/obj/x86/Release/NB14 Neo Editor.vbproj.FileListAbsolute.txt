@@ -1,0 +1,9 @@
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\obj\x86\Release\NeoCommander.Form1.resources
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\obj\x86\Release\NeoCommander.Resources.resources
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\obj\x86\Release\NB14 Neo Editor.vbproj.GenerateResource.Cache
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\bin\Release\Neo Editor.exe
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\bin\Release\Neo Editor.pdb
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\bin\Release\Neo Editor.xml
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\obj\x86\Release\Neo Editor.exe
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\obj\x86\Release\Neo Editor.xml
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\obj\x86\Release\Neo Editor.pdb

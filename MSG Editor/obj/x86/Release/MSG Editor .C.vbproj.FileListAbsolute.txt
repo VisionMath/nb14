@@ -1,0 +1,18 @@
+C:\Utility\비베\MSG Editor .C\MSG Editor\bin\Release\MSG Editor .C.exe
+C:\Utility\비베\MSG Editor .C\MSG Editor\bin\Release\MSG Editor .C.pdb
+C:\Utility\비베\MSG Editor .C\MSG Editor\bin\Release\MSG Editor .C.xml
+C:\Utility\비베\MSG Editor .C\MSG Editor\obj\x86\Release\MSGEditor.C.Form1.resources
+C:\Utility\비베\MSG Editor .C\MSG Editor\obj\x86\Release\MSGEditor.C.Resources.resources
+C:\Utility\비베\MSG Editor .C\MSG Editor\obj\x86\Release\MSG Editor .C.vbproj.GenerateResource.Cache
+C:\Utility\비베\MSG Editor .C\MSG Editor\obj\x86\Release\MSG Editor .C.exe
+C:\Utility\비베\MSG Editor .C\MSG Editor\obj\x86\Release\MSG Editor .C.xml
+C:\Utility\비베\MSG Editor .C\MSG Editor\obj\x86\Release\MSG Editor .C.pdb
+C:\비베\MSG Editor .C\MSG Editor\obj\x86\Release\MSG Editor .C.exe
+C:\비베\MSG Editor .C\MSG Editor\obj\x86\Release\MSG Editor .C.xml
+C:\비베\MSG Editor .C\MSG Editor\obj\x86\Release\MSG Editor .C.pdb
+C:\비베\MSG Editor .C\MSG Editor\bin\Release\MSG Editor .C.exe
+C:\비베\MSG Editor .C\MSG Editor\bin\Release\MSG Editor .C.pdb
+C:\비베\MSG Editor .C\MSG Editor\bin\Release\MSG Editor .C.xml
+C:\비베\MSG Editor .C\MSG Editor\obj\x86\Release\MSGEditor.C.Form1.resources
+C:\비베\MSG Editor .C\MSG Editor\obj\x86\Release\MSGEditor.C.Resources.resources
+C:\비베\MSG Editor .C\MSG Editor\obj\x86\Release\MSG Editor .C.vbproj.GenerateResource.Cache

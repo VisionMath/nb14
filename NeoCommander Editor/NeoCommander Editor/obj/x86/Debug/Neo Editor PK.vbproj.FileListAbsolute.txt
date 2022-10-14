@@ -1,0 +1,21 @@
+C:\비베\NeoCommander Editor\NeoCommander Editor\bin\Debug\Neo Editor PK.exe
+C:\비베\NeoCommander Editor\NeoCommander Editor\bin\Debug\Neo Editor PK.pdb
+C:\비베\NeoCommander Editor\NeoCommander Editor\bin\Debug\Neo Editor PK.xml
+C:\비베\NeoCommander Editor\NeoCommander Editor\obj\x86\Debug\NeoCommander.Form1.resources
+C:\비베\NeoCommander Editor\NeoCommander Editor\obj\x86\Debug\NeoCommander.Resources.resources
+C:\비베\NeoCommander Editor\NeoCommander Editor\obj\x86\Debug\Neo Editor PK.vbproj.GenerateResource.Cache
+C:\비베\NeoCommander Editor\NeoCommander Editor\obj\x86\Debug\Neo Editor PK.exe
+C:\비베\NeoCommander Editor\NeoCommander Editor\obj\x86\Debug\Neo Editor PK.xml
+C:\비베\NeoCommander Editor\NeoCommander Editor\obj\x86\Debug\Neo Editor PK.pdb
+C:\비베\NeoCommander Editor\NeoCommander Editor\bin\Debug\Ionic.Zip.dll
+C:\비베\NeoCommander Editor\NeoCommander Editor\obj\x86\Debug\Neo Editor PK.vbprojResolveAssemblyReference.cache
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\bin\Debug\Neo Editor PK.exe
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\bin\Debug\Neo Editor PK.pdb
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\bin\Debug\Neo Editor PK.xml
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\obj\x86\Debug\Neo Editor PK.vbprojResolveAssemblyReference.cache
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\obj\x86\Debug\NeoCommander.Form1.resources
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\obj\x86\Debug\NeoCommander.Resources.resources
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\obj\x86\Debug\Neo Editor PK.vbproj.GenerateResource.Cache
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\obj\x86\Debug\Neo Editor PK.exe
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\obj\x86\Debug\Neo Editor PK.xml
+C:\Users\blood_000\Desktop\NB14 작업\NeoCommander Editor\NeoCommander Editor\obj\x86\Debug\Neo Editor PK.pdb

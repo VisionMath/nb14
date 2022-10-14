@@ -1,0 +1,11 @@
+C:\Users\Panorama\Desktop\MSG Editor\MSG Editor\bin\Release\MSG Editor.exe
+C:\Users\Panorama\Desktop\MSG Editor\MSG Editor\bin\Release\MSG Editor.pdb
+C:\Users\Panorama\Desktop\MSG Editor\MSG Editor\bin\Release\MSG Editor.xml
+C:\Users\Panorama\Desktop\MSG Editor\MSG Editor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Panorama\Desktop\MSG Editor\MSG Editor\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Panorama\Desktop\MSG Editor\MSG Editor\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Panorama\Desktop\MSG Editor\MSG Editor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Panorama\Desktop\MSG Editor\MSG Editor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Panorama\Desktop\MSG Editor\MSG Editor\obj\x86\Release\MSG Editor.exe
+C:\Users\Panorama\Desktop\MSG Editor\MSG Editor\obj\x86\Release\MSG Editor.xml
+C:\Users\Panorama\Desktop\MSG Editor\MSG Editor\obj\x86\Release\MSG Editor.pdb

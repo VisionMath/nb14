@@ -1,0 +1,16 @@
+C:\Users\VisionMath\Desktop\msg editor for san12\msg editor for san12\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\VisionMath\Desktop\msg editor for san12\msg editor for san12\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\VisionMath\Desktop\msg editor for san12\msg editor for san12\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\VisionMath\Desktop\msg editor for san12\msg editor for san12\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\VisionMath\Desktop\msg editor for san12\msg editor for san12\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Panorama\Desktop\msg editor for san12\msg editor for san12\bin\Release\msg editor for san12.exe
+C:\Users\Panorama\Desktop\msg editor for san12\msg editor for san12\bin\Release\msg editor for san12.pdb
+C:\Users\Panorama\Desktop\msg editor for san12\msg editor for san12\bin\Release\msg editor for san12.xml
+C:\Users\Panorama\Desktop\msg editor for san12\msg editor for san12\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Panorama\Desktop\msg editor for san12\msg editor for san12\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Panorama\Desktop\msg editor for san12\msg editor for san12\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Panorama\Desktop\msg editor for san12\msg editor for san12\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Panorama\Desktop\msg editor for san12\msg editor for san12\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Panorama\Desktop\msg editor for san12\msg editor for san12\obj\x86\Release\msg editor for san12.exe
+C:\Users\Panorama\Desktop\msg editor for san12\msg editor for san12\obj\x86\Release\msg editor for san12.xml
+C:\Users\Panorama\Desktop\msg editor for san12\msg editor for san12\obj\x86\Release\msg editor for san12.pdb
